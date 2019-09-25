@@ -1,0 +1,17 @@
+{
+  "name": "task8",
+  "version": "0.0.1",
+  "description": "first project",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "html5",
+    "css3",
+    "javascript"
+  ],
+  "author": "Olha Yuzefiv",
+  "license": "ISC",
+  "dependencies": {}
+}
